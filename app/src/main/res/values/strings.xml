@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="about_delhi">Delhi, city and national capital territory, north-central India. The city of Delhi actually consists of two components: Old Delhi, in the north, the historic city; and New Delhi, in the south, since 1947 the capital of India, built in the first part of the 20th century as the capital of British India.</string>
+    <string name="more_about_delhi">Delhi is of great historical significance as an important commercial, transport, and cultural hub, as well as the political centre of India. According to legend, the city was named for Raja Dhilu, a king who reigned in the region in the 1st century BCE. The names by which the city has been known—including Delhi, Dehli, Dilli, and Dhilli, among others—likely are corruptions of his name. Area Old Delhi, 360 square miles (932 square km); national capital territory, 573 square miles (1,483 square km). Pop. Old Delhi, (2001) 12,260,000; national capital territory, (2001) 13,850,507; Old Delhi, (2011) 11,007,835; national capital territory, (2011) 16,753,235.</string>
+    <string name="india_gate">India Gate</string>
+    <string name="recomandation_line">Our favrouite recommandations are here:-</string>
+    <string name="delhi">Delhi</string>
+    <string name="food">Food</string>
+    <string name="shopping">Shopping</string>
+    <string name="monuments">Monuments</string>
+    <string name="fun_activities">Fun Activities</string>
+    <string name="eat_amp_drinks"><![CDATA[Eat & Drinks]]></string>
+    <string name="home">Home</string>
+    <string name="shopping_name_one">Dilli Haat</string>
+    <string name="shopping_address_one">Sri Aurobindo Marg</string>
+    <string name="shopping_description_one">A mastermind of the Delhi government, Dilli Haat is a sprawling marketplace similar to that of a rustic village market and is a must-visit for any tourist visiting the country’s capital. The stall cottages here are erected with a thatched roof and the place presents an exciting blend of Indian cultural activities, cuisines, craft bazaar, folk art performances, and much more. The buzzing shopping destination has something for everyone and you will have a hard time resisting your urge to lose yourself browsing through these lovely collectibles. The open-air market is a great place to buy traditional handicrafts, artefacts, different beads, gems, jewellery, footwear, Madhubani paintings, Phulkari works, camel leather tote bags, and bamboo-made handicrafts.</string>
+    <string name="shopping_workinghours_one">11:00 AM to 10:00 PM, open all days</string>
+    <string name="shopping_name_two">Janpath Market</string>
+    <string name="shopping_address_two">Janpath</string>
+    <string name="shopping_description_two">Janpath Market, which is renowned for its leather articles, Indian artefacts, colourful collection of imitation jewelry, brassware, shoes, and a wide range of Tibetan vintage picks. The market is a huge hit with shopping enthusiasts, tourists, foreigners, and the young Delhi crowd and stays crowded at all times of the day. You can spot shopkeepers vying and calling your attention in selling all kinds of seasonal wears like T-Shirts and skirts for summer and jackets, scarves, and stoles for winter, all available at wholesale prices. Make sure you put your bargaining skills to good use to get some really good deals.</string>
+    <string name="shopping_workinghours_two">10:30 AM to 9:00 PM, closed on Mondays</string>
+    <string name="shopping_name_three">Khan Market</string>
+    <string name="shopping_address_three">Humayun Road</string>
+    <string name="shopping_description_three">The very popular and lively Khan market is one of the classiest street markets of South Delhi, and here you will find goods from everywhere in India. The market has a good mix of branded outlets, boutiques, and street vendors selling Ayurvedic medicines, new as well as second-hand books, cosmetics, crockery items, garments, and exotic fruits, making it a great place to shop for some exciting things to take back home.
+        One of the upscale shopping places in Delhi, Khan Market is the place where you will spot intricately designed handicrafts, flawlessly sculpted wood and stone sculptures, ornate footwear, beautiful inexpensive souvenirs, and other handlooms, and is often frequented by expats and the elite residents of Delhi. There are also a few great places to eat and drink if you want to unwind after you are done shopping.</string>
+    <string name="shopping_workinghours_three">10:00 AM to 11:00 PM, closed on Sundays</string>
+    <string name="shopping_name_four">Sarojini Market</string>
+    <string name="shopping_address_four">Sarojini Nagar</string>
+    <string name="shopping_description_four">Sarojini Market is one of the chaotic markets of Delhi dotted with wholesale sellers and is the best place to buy clothes, music, fashionable clothes, books, hookah pipes, handicrafts, and others. Some of the best budget-friendly shopping in Delhi can be experienced in this crumbling and thriving bazaar, famous for all kinds of products available at throwaway prices.
+        Included in the popular attractions of the city, Sarojini Nagar is also touted as Delhi’s favourite flea market and is thronged by young crowd and foreigners. In fact, it is a mecca for bargain hunters, where you can literally find some amazing finds at the end of your spree.</string>
+    <string name="shopping_workinghours_four">10:00 AM to 9:00 PM, closed on Mondays</string>
+    <string name="shopping_name_five">Chandni Chowk</string>
+    <string name="shopping_address_five"> Chandni Chowk</string>
+    <string name="shopping_description_five">One of the prime ancient shopping regions of Delhi, surviving till date, Chandni Chowk is composed of winding alleys and narrow passages, which lead to an endless stream of shops. The market is divided into many small bazaars like Katra Neel, Chatta Chowk, Khari Baoli, Tilak Bazaar, Chor Bazaar, Daryaganji, and Paranthe Wali Gali that each specializes in certain kinds of products including fabrics, electronics, hardware, kitchen equipment, and used books. Be ready to bargain hard and buy some lovely traditional items and souvenirs to take back home.
+
+        The market offers a traditional charm of the city and is looked upon as a sure short destination for various antiques, silverware, precious stones and handicraft items. It remains crowded and noisy at all times of the day, and it is advised to take a cycle rickshaw and ride through the streets and bylanes.</string>
+    <string name="shopping_workinghours_five">10:00 AM to 8:00 PM, closed on Sundays</string>
+
+
+    <string name="food_name_one">North Campus</string>
+    <string name="food_address_one">Delhi University metro station</string>
+    <string name="food_description_one">One of the best places to eat in Delhi, the North Campus is one area where you won’t be disappointed when it comes to street food, snacking joints, fast food, and multi-cuisine diners. Remember, this is a place that is bustling with students from all over India who have limited pocket money to spend. So yes, the food that you shall find here would not only be diverse but also cheap and delicious too!
+\n
+\n
+\n<b>Famous Cuisines:</b> Street Food, Sweets, North Indian, Fast Food, Sweets, and Region Specific &amp; Multi-Cuisine
+\n\n<b>Best Picks:</b> Momo’s Point, Bille Di Hatti, Chache Di Hatti, Shagun Asian Eatery, Bamboo Hut, and South Indian Cafe.</string>
+    <string name="food_name_two">Hudson Lane, GTB Nagar</string>
+    <string name="food_address_two">GTB Nagar metro station</string>
+    <string name="food_description_two">Very close the main North Campus area, Hudson Lane is one place where you will find one of the finest cafes and best restaurants in Delhi. Mostly serving Italian, Cafe, and Fast Food cuisine, these quirky joints offer an amazing culinary experience at an extremely pocket-friendly price. We recommend this place to all!
+\n\n
+\n<b>Famous Cuisines:</b> Fast Food, Cafe, Italian, American, Chinese, and North Indian
+\n\n<b>Best Picks:</b> Woodbox Cafe, Mad Monkey, Indus Flavours, QD’s, Ricos, and BYD (Big Yellow Door).</string>
+    <string name="food_name_three">South Campus</string>
+    <string name="food_address_three">Durgabai Deshmukh South Campus metro station</string>
+    <string name="food_description_three">If you are looking for economical and best food in Delhi to satisfy your hunger pangs, then Satya Niketan aka South Campus is the place to be. The area which is once again bustling with students from all over India has some of the most value for money and cool cafes like Scooter on the Wall, Big Yellow Door, and QD’s. Just like the Hudson Lane in North Campus, food served here is delicious!
+\n\n
+\n<b>Famous Cuisines:</b> Fast Food &amp; Shakes, Italian, American, Cafe, Chinese, and North Indian Grill
+\n\n<b>Best Picks:</b> Chowringhee Lane, QD’s, Echoes, BYD (Big Yellow Door), Kev’s, and Vadapav Junction</string>
+    <string name="food_name_four">Old Delhi</string>
+    <string name="food_address_four">Chandni Chowk or Chawri Bazar metro station</string>
+    <string name="food_description_four">One of the most iconic place for the best food in Delhi, Old Delhi is the place where it all started. Your chaat papri, dahi bhallas, jalebi, Daulat ki Chaat and so on and so forth, yes, it all began from here. A paradise for street food, authentic Mughlai cuisine, and sweets lovers, Old Delhi still retains its glorious charm and culinary delights of the past. For someone who likes experiential binging, this is the place to be!
+\n\n
+\n<b>Famous Cuisines:</b> Street Food &amp; Sweets
+\n\n<b>Best Picks:</b> Chainaram, Meghraj &amp; Sons, Haldiram, Tiwari Bros, Old Famous Jalebiwala, Shiv Mishthan Bhandaar, and Ghantewala Halwai, Natraj Bhalle Wala, Khemchand Adesh Kumar’s Daulat Ki Chaat, Lotan Chole Wala, Jung Bahadur Kachori Wala, and Shree Balaji Chaat Bhandaar and Bishan Swaroop for chaat.</string>
+    <string name="food_name_five">Pandara Road</string>
+    <string name="food_address_five">Khan Market metro station</string>
+    <string name="food_description_five">Located near India Gate, Pandara Road has some of the best places to eat in Delhi. It is an upmarket choice for all those who are looking for an excellent meal in a niche part of the city. One can find some of the best food places in Delhi here and these include Have More, Gulati, and Chicken Inn (all North Indian). Ichiban is the go-to place for lovers of Pan Asian and Pindi is the one for tandoori food lovers. For vegetarians, the best option is Veg Gulati.  Pandara Road has some of the best eateries in Delhi that you must try at least once.
+\n\n
+\n<b>Famous Cuisines:</b> North Indian, Chinese, Multi-Cuisine, North Indian Grill, Pan Asian, and Sweets
+\n\n<b>Best Picks:</b> Have More, Gulati, Chicken Inn, Veg Gulati, and Ichiban</string>
+    <string name="food_name_six">Netaji Subhash Place</string>
+    <string name="food_address_six"> NSP metro station</string>
+    <string name="food_description_six">Food lovers will find a lot of good places to eat in Delhi here. NSP not only offers a perfect mix of street food, fast food, and fine dining restaurants but also has some of the best shakes in town.  Aloo Tikki and chaat lovers can visit the iconic BTW while students looking for a quick bite can visit Billu’s Hut and Hashtag Foods.  They are the best places to eat in Delhi for some crispy and delicious chaat. Apart from this, one can also go in for a fine dining option and pay a visit to restaurants like Sura Ve, Themis Barbecue House, Eleven Course, and Barbeque Nation. This is one of the most popular hub for the best food in Delhi.
+\n\n
+\n<b>Famous Cuisines:</b> Fast Food &amp; Shakes, Street Food, North Indian Grill, North Indian, and Multi cuisine.
+\n\n<b>Best Picks:</b>BTW, Billu’s Hut, Sura Ve, Barbeque Nation, and Eleven Course.</string>
+
+    <string name="fun_name_one">Soap-Football</string>
+    <string name="fun_address_one">DLF Place, Saket</string>
+    <string name="fun_description_one">As weird and intriguing this may sound, the concept is as brilliant and unique. The 1st ever Soap-Football arena opened in Delhi. 55 minutes, 2 teams and 1 winner is the super amazing concept of the game that you play with a minimum of your 4 friends (maximum 5 per team) along with 2 substitutes. A massive, heavily-cushioned plastic floor covered with diluted soap water played barefoot sure does break your fall and let you have the time of your life.</string>
+
+    <string name="fun_name_two">SkyJumper Trampoline Park</string>
+    <string name="fun_address_two">ILD Trade Centre, Sohna Road, Sector-47</string>
+    <string name="fun_description_two">Not so long ago, Gurgaon became home to India\'s largest trampoline park and no one could contain their excitement. The park has 100 interconnected trampolines that are perfect for everyone above the age of 2 and of any level of fitness. You have a lot of optionable activities to participate in, inside the arena itself such as the volleyball, dodgeball, swinging ropes and wall walks. </string>
+
+    <string name="fun_name_three">Ski India</string>
+    <string name="fun_address_three">DLF Mall of India, Sector 18, Noida</string>
+    <string name="fun_description_three">Ski India: India\'s largest snow adventure park is also in Delhi-NCR. Spread over One Lakh Sq.ft. this amusement cum adventure park is one of the must-visit places in Delhi-NCR with your friends and family and experiences the fun time of your life. Sci-fi-themed snow park in the DLF Mall of India featuring ice skating, sledding and much more is a very interesting and unique opportunity to do something different from the regular.</string>
+
+    <string name="fun_name_four">PaintBall</string>
+    <string name="fun_address_four">Pacific Mall, Subhash Nagar</string>
+    <string name="fun_description_four">Are you waiting for a game to get a chance to just shoot somebody? (Not literally!) Then you already know that the colorful, cheerful and crazy game of paintball is the right thing for you. For a fresher or even a well-seasoned paintballer, Delhi has many arena options for paintball. Whichever\'s closest, pick the one! Just lock your goals, fill the multicolored ammunitions and get firing! Paintball is a great way to spend your time and is one of the most fun places to hang out in Delhi either with your friends or family.</string>
+
+    <string name="fun_name_five">Indian Mountaineering Foundation</string>
+    <string name="fun_address_five"> Benito Juarez Marg, South Campus</string>
+    <string name="fun_description_five">Food, Coffee, Video Games, Clubbing, Books - Every Delhiite\'s outdoor activities surprisingly. If you want to be adventurous for a day and not spend days, money and hours trekking or going to mountains for adventure sports then worry not! Delhi also has the facilities for you. Now we wonder if there is anything that Delhi doesn\'t have! For the adventurous and fun-loving spirit in you. The Indian Mountaineering Foundation is one of the perfect places to visit in Delhi with your friends. </string>
+</resources>
