@@ -39,12 +39,12 @@ public class EatAndDrinksActivity extends AppCompatActivity {
 
         final ArrayList<Place> famousPlaces = new ArrayList<>();
 for (int i=0;i<3;i++) {
-    famousPlaces.add(new Place(getString(R.string.food_name_one), getString(R.string.food_address_one), getString(R.string.food_description_one), "10:00AM to 05:00PM, Sunday closed.", 28.6872, 77.2103, R.drawable.food_one));
-   famousPlaces.add(new Place(getString(R.string.food_name_two), getString(R.string.food_address_two), getString(R.string.food_description_two), "11:00AM to 08:00PM", 28.6872, 77.2103, R.drawable.food_two));
-   famousPlaces.add(new Place(getString(R.string.food_name_three), getString(R.string.food_address_three), getString(R.string.food_description_three), "10:00AM to 05:00PM, Sunday closed.", 28.6872, 77.2103, R.drawable.food_three));
-   famousPlaces.add(new Place(getString(R.string.food_name_four), getString(R.string.food_address_four), getString(R.string.food_description_four), "08:00AM to 09:00PM", 28.6872, 77.2103, R.drawable.food_four));
-   famousPlaces.add(new Place(getString(R.string.food_name_five), getString(R.string.food_address_five), getString(R.string.food_description_five), "11:00AM to 11:00PM, Wednesday closed.", 28.6872, 77.2103, R.drawable.food_five));
-   famousPlaces.add(new Place(getString(R.string.food_name_six), getString(R.string.food_address_six), getString(R.string.food_description_six), "11:00AM to 04:00PM, Sunday closed.", 28.6872, 77.2103, R.drawable.food_six));
+    famousPlaces.add(new Place(getString(R.string.food_name_one), getString(R.string.food_address_one), getString(R.string.food_description_one), "10:00AM to 05:00PM (timing may vary due to covid19 pandemic)", 28.6872, 77.2103, R.drawable.food_one));
+   famousPlaces.add(new Place(getString(R.string.food_name_two), getString(R.string.food_address_two), getString(R.string.food_description_two), "11:00AM to 08:00PM timing may vary due to covid19 pandemic", 28.6872, 77.2103, R.drawable.food_two));
+   famousPlaces.add(new Place(getString(R.string.food_name_three), getString(R.string.food_address_three), getString(R.string.food_description_three), "10:00AM to 05:00PM (timing may vary due to covid19 pandemic)", 28.6872, 77.2103, R.drawable.food_three));
+   famousPlaces.add(new Place(getString(R.string.food_name_four), getString(R.string.food_address_four), getString(R.string.food_description_four), "08:00AM to 09:00PM (timing may vary due to covid19 pandemic) ", 28.6872, 77.2103, R.drawable.food_four));
+   famousPlaces.add(new Place(getString(R.string.food_name_five), getString(R.string.food_address_five), getString(R.string.food_description_five), "11:00AM to 11:00PM (timing may vary due to covid19 pandemic)", 28.6872, 77.2103, R.drawable.food_five));
+   famousPlaces.add(new Place(getString(R.string.food_name_six), getString(R.string.food_address_six), getString(R.string.food_description_six), "11:00AM to 04:00PM (timing may vary due to covid19 pandemic)", 28.6872, 77.2103, R.drawable.food_six));
 
 }
         PlacesAdapter adapter = new PlacesAdapter(this,famousPlaces);
