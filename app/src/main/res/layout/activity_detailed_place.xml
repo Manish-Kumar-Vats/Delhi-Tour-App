@@ -154,7 +154,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="16dp"
                     android:background="@color/colorPrimaryDark"
-                    android:text="Localize the place"
+                    android:text="Directions➡"
                     android:textColor="@color/whiteColor"
                     android:textStyle="bold" />
 
