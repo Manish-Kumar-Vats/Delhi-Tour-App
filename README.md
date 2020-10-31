@@ -15,3 +15,21 @@ Getting Started
 
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
+
+
+How to propose or add more places
+---------------
+
+The best and simple way to propose more places to add on the send following details of any play to mvats77947794@gmail.com
+- Name
+- Location
+- Timing(if any)
+- some images
+- Contact Details of authorities(if possible)
+- Geolocation(Long. and Latitudes)
+
+
+ScreenShots
+---------------
+
+
